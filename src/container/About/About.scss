@@ -1,0 +1,47 @@
+.about__container {
+    row-gap: 3.5rem;
+}
+
+.about__data {
+    text-align: center;
+
+    .about__description {
+        margin-bottom: 2.5rem;
+    }
+}
+
+.about__img{
+    width: 280px;
+    justify-self: center;
+}
+
+/* For medium devices */
+
+@media screen and (min-width: 576px) {
+    .about__container {
+        grid-template-columns: 380px;
+        justify-content: center;
+    }
+}
+
+/* For large devices */
+
+@media screen and (min-width: 1150px) {
+    .about__container {
+        grid-template-columns: 400px 500px;
+        align-items: center;
+        column-gap: 5rem;
+    }
+
+    .about__data .section__title,
+    .about__data {
+        text-align: initial;
+    }
+
+    .about__description{
+        margin-bottom: 3.5rem;
+    }
+    .about__img{
+        width: 500px;
+    }
+}

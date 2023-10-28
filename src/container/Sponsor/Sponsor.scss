@@ -1,0 +1,45 @@
+.sponsor__img{
+    width: 100px;
+    transition: transform .4s;
+}
+
+.sponsor__img:hover{
+    transform: scale(1.1);
+}
+
+.sponsor__container{
+    padding-block: .5rem 4.5;
+    grid-template-columns: repeat(2, max-content);
+    justify-content: center;
+    align-items: center;
+    gap: 5rem 4rem;
+}
+
+/* For small devices */
+
+@media screen and (max-width: 340px) {
+    .sponsor__img {
+        width: 90px;
+    }
+
+    .sponsor__container {
+        gap: 4rem 2rem;
+    }
+}
+
+/* For medium devices */
+
+@media screen and (min-width: 768px) {
+    .sponsor__container {
+        grid-template-columns: repeat(4, max-content);
+    }
+}
+
+/* For large devices */
+
+@media screen and (min-width: 1150px) {
+    .sponsor__container{
+        column-gap: 7.5rem;
+        padding-bottom: 6rem;
+    }
+}
