@@ -8,7 +8,7 @@ const Home = () => {
     <section className='home section' id='home'>
         <div className="home__container container grid">
             <div className='home__content'>
-            <img src="./src/assets/images/home-img.png" className='home__img' alt="image" />
+            <img src="./home-img.png" className='home__img' alt="image" />
 
             <h1 className="home__title">
                 <span>A</span>
@@ -19,7 +19,7 @@ const Home = () => {
             </h1>
 
             <div className="home__tooltip">
-                <img src="src/assets/images/tooltip-right.svg" alt="image" className="home__tooltip-img" />
+                <img src="./tooltip-right.svg" alt="image" className="home__tooltip-img" />
                 <span className="home__tooltip-text">$550</span>
             </div>
         </div>

@@ -16,7 +16,7 @@ const ModelsPage = () => {
             src={
               selectedProduct
                 ? selectedProduct.image
-                : "src/assets/images/model-img.png"
+                : "./model-img.png"
             }
             alt="image"
             className="model__img"

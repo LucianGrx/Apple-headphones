@@ -1,49 +1,49 @@
 [
     {
         "name" : "AirPods Max",
-        "image" : "./src/assets/images/product-1.png",
+        "image" : "./product-1.png",
         "url" : "https://www.apple.com/shop/buy-airpods/airpods-max/space-gray",
         "specification" : ["20 hrs", "Active Noise", "Spatial Audio", "Smart Case"]
     },
     {
         "name" : "AirPods (2nd generation)",
-        "image" : "./src/assets/images/product-2.png",
+        "image" : "./product-2.png",
         "url" : "https://www.apple.com/shop/product/MV7N2AM/A/airpods-with-charging-case",
         "specification" : ["5 hrs", "Lightning Charging Case", "Bluetooth 5.0", "Dual optical sensors"]
     },
     {
         "name" : "AirPods (3rd generation)",
-        "image" : "./src/assets/images/product-3.png",
+        "image" : "./product-3.png",
         "url" : "https://www.apple.com/shop/product/MPNY3AM/A/airpods-3rd-generation-with-lightning-charging-case",
         "specification" : ["6 hrs", "Lightning Charging Case", "Water Resistant", "Spatial Audio"]
     },
     {
         "name" : "HomePod mini",
-        "image" : "./src/assets/images/product-4.png",
+        "image" : "./product-4.png",
         "url" : "https://www.apple.com/shop/buy-homepod/homepod-mini/space-gray",
         "specification" : ["Full-range driver", "Intelligent assistant", "Sound Recognition", "Temperature and humidity sensor"]
     },
     {
         "name" : "HomePod",
-        "image" : "./src/assets/images/product-5.png",
+        "image" : "./product-5.png",
         "url" : "https://www.apple.com/shop/buy-homepod/homepod/white",
         "specification" : ["High-excursion woofer", "Spatial Audio", "Intelligent assistant", "Temperature and humidity sensor"]
     },
     {
         "name" : "Beats Studio Pro",
-        "image" : "./src/assets/images/product-6.png",
+        "image" : "./product-6.png",
         "url" : "https://www.apple.com/shop/product/MQTR3LL/A/beats-studio-pro-wireless-headphones-sandstone?fnode=3d228b09ee5a91589055a9325fbf08a1947690e3ae50dec90554c62d60d7e757e791d859002a9d2acff82d29d0f5bfcf29506d96df1985f9cda9a289ecf604d5e0fe8aaa304bff95321d5432df225166865a228dab77ba57af5c544052ca29cf4267d33420421603f5077196ba28fe3f984724b82467c09717f8de332470d082",
         "specification" : ["40 hours", "Active Noise Cancelling", "Spatial Audio", "High-Quality Call"]
     },
     {
         "name" : "Beats Studio Buds",
-        "image" : "./src/assets/images/product-7.png",
+        "image" : "./product-7.png",
         "url" : "https://www.apple.com/shop/product/MQLK3LL/A/beats-studio-buds-true-wireless-noise-cancelling-earbuds-transparent?fnode=3d228b09ee5a91589055a9325fbf08a1947690e3ae50dec90554c62d60d7e757e791d859002a9d2acff82d29d0f5bfcf29506d96df1985f9cda9a289ecf604d5e0fe8aaa304bff95321d5432df225166865a228dab77ba57af5c544052ca29cf4267d33420421603f5077196ba28fe3f984724b82467c09717f8de332470d082",
         "specification" : ["36 hours", "Less Charging", "Noise Cancelling", "Clear Calls"]
     },
     {
         "name" : "Beats Solo 3",
-        "image" : "./src/assets/images/product-8.png",
+        "image" : "./product-8.png",
         "url" : "https://www.apple.com/shop/product/MT283LL/A/beats-solo3-wireless-headphones-gold?fnode=3d228b09ee5a91589055a9325fbf08a1947690e3ae50dec90554c62d60d7e757e791d859002a9d2acff82d29d0f5bfcf29506d96df1985f9cda9a289ecf604d5e0fe8aaa304bff95321d5432df225166865a228dab77ba57af5c544052ca29cf4267d33420421603f5077196ba28fe3f984724b82467c09717f8de332470d082",
         "specification" : ["40 hours", "Apple W1 chip", "Award-Winning Beats", "Comfort"]
     }
