@@ -25,7 +25,7 @@ const About = () => {
                 </a>
             </div>
 
-            <img src="src/assets/images/about-img.png" alt="image" className="about__img" />
+            <img src="./src/assets/images/about-img.png" alt="image" className="about__img" />
         </div>
     </section>
   )
